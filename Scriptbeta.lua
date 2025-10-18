@@ -984,4 +984,5 @@ print("=================================")
 print("quả cam hub - DOORS")
 print("Current Room: " .. GetCurrentRoom())
 print("Script Loaded Successfully!")
+
 print("=================================")
